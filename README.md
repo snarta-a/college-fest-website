@@ -33,13 +33,6 @@ college-fest-website/
 │── README.md
 ```
 
----
-
-## 🌐 Live Demo
-
-👉 https://snarta-a.github.io/college-fest-website/
-
----
 
 ## 🧑‍💻 How to Run Locally
 
